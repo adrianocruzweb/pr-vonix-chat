@@ -1,0 +1,19 @@
+{
+  "name": "pr-vonix-chat",
+  "version": "1.0.0",
+  "description": "app de chat web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "soket.io": "^0.0.1-security",
+    "vue": "^2.6.12"
+  }
+}
